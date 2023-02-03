@@ -1,0 +1,26 @@
+#docback {
+  background-color: #ffbe0b;
+}
+#wanback {
+  background-color: #e63946;
+}
+#lokback {
+  background-color: #38b000;
+}
+#lokb {
+  background-color: #9ef01a;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#wanb {
+  background-color: #5a189a;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#docb {
+  background-color: #83e377;
+  color: #2c699a;
+  border-radius: 10px;
+  cursor: pointer;
+}

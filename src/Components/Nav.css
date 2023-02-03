@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #293241;
+  height: 10vh;
+}
+
+.companyLogo {
+  color: white;
+  font-size: 3rem;
+}
+
+.links {
+  padding: 0.5rem 0.5rem;
+  margin: 0 10px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: transparent;
+}
+#kath {
+  padding: 0.5rem 0.5rem;
+  margin: 0 10px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: transparent;
+  color: white;
+  border: none;
+  text-decoration: none;
+  color: #ffbe0b;
+}
+#hy {
+  padding: 0rem 0.5rem;
+  margin: 0 10px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: transparent;
+  color: white;
+  border: none;
+  text-decoration: none;
+  color: #e63946;
+}
+#as {
+  padding: 0rem 0.5rem;
+  margin: 0 10px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: transparent;
+  color: white;
+  border: none;
+  text-decoration: none;
+  color: #38b000;
+}
+.name {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: #293241;
+  height: 10vh;
+  color: white;
+}

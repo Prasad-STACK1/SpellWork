@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.mainContent {
+  flex: 4;
+  padding: 1rem;
+  color: #293241;
+  background-color: #e0fbfc;
+}
